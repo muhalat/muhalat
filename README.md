@@ -1,9 +1,10 @@
-### Hi there 👋
+# Hi there 👋
 
-Here are some ideas to get you started:
+## I am Modupeola Muhammed Abdullateef
+### I am a full stack software developer with a background in chemical engineering.
 
-<!-- - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on an app that uses the fetch API to gather data about the weather, the picture and the population of a city. 
+<!-- - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
 
