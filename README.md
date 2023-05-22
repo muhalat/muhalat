@@ -4,8 +4,8 @@
 ### I am a full stack software developer with a background in chemical engineering.
 
 - 🔭 I’m currently working on an app that uses the fetch API to gather data about the weather, the picture and the population of a city. 
-<!-- - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+ - 🌱 I’m currently developing a fullstack project that has it's root in fintech technology.
+<!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
 
 <p>
